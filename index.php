@@ -1,9 +1,12 @@
-<?php 
-    echo "hello world";
-    
-    
-    $nama = "Dio" ;
-    $nim = 2143100;
-    echo "<br> nama : $nama <br> umur: $nim";
-
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar PHP</title>
+</head>
+<body>
+    Hallo Semuanya
+    <?php echo "Sekolah Koding";?>
+</body>
+</html>
